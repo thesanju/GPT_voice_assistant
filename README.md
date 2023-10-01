@@ -1,6 +1,6 @@
 # Voice Assistant with OpenAI and Eleven Labs Text-to-Speech
 
-This Python project implements a voice assistant that uses the OpenAI API for natural language understanding and the Eleven Labs Text-to-Speech API for generating speech responses. You can use this assistant to interact with a wide range of questions and receive voice responses.
+This Python project implements a voice assistant that uses the OpenAI API for natural language understanding and the Eleven Labs Text-to-Speech API for generating speech responses. You can use this assistant to interact with a wide range of questions and receive voice responses. 
 
 ## Prerequisites
 
@@ -15,14 +15,14 @@ Follow these steps to set up the voice assistant on your local machine:
 1. Clone the repository to your local machine:
    
    ```shell
-   git clone https://github.com/your-username/voice-assistant.git
+   git clone https://github.com/thesanju/GPT_voice_assistant.git
    ```
 
 
 3. navigate to directory
    
     ```bash
-    cd voice-assistant
+    cd GPT_voice_assistant
 
 
 2. create an vertual environment
