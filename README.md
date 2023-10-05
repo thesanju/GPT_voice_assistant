@@ -54,6 +54,6 @@ Follow these steps to set up the voice assistant on your local machine:
 
 ## Project Goals
 - Change input from typing to just by asking.
-- Make and complete AI assistant with raspberry pi 
+- Make an complete AI assistant with raspberry pi 
 
 
