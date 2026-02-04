@@ -5,7 +5,7 @@ import pyttsx3
 engine = pyttsx3.init()
 listener = sr.Recognizer()
 
-openai.api_key = "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"
+openai.api_key = ""
 
 # Define the keyword to stop listening
 stop_keyword = "stop listening"
